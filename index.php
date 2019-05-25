@@ -1,0 +1,5 @@
+<?php
+
+    echo "Vamos começar!"
+
+?>
